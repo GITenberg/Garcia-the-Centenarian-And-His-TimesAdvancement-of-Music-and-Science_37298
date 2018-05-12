@@ -1,0 +1,34 @@
+_repo: Garcia-the-Centenarian-And-His-TimesAdvancement-of-Music-and-Science_37298
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37298-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mackinlay, M. (Malcolm) Sterling
+    aliases:
+    - Mackinlay, Malcolm Sterling
+    - Mackinlay, Sterling
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '38753'
+    url: http://www.gutenberg.org/2009/agents/38753
+description: ''
+gutenberg_issued: '2011-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37298'
+  lccn: 09009291
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singers -- Spain -- Biography'
+- !lcsh 'Voice culture'
+- !lcsh 'Laryngoscopy'
+- !lcc 'ML'
+- !lcsh 'Garcia, Manuel, 1805-1906'
+title: "Garcia the Centenarian and His Times\r\nBeing a Memoir of Manuel Garcia's\
+  \ Life and Labours for the Advancement of Music and Science"
+url: http://www.gutenberg.org/ebooks/37298
