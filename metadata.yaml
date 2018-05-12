@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38753'
     url: http://www.gutenberg.org/2009/agents/38753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37298#Garcia-the-Centenarian-And-His-TimesAdvancement-of-Music-and-Science
 gutenberg_issued: '2011-09-03'
 gutenberg_type: Text
 identifiers:
